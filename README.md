@@ -1,6 +1,6 @@
 Apparel Comparison Platform
-服飾比價與導購網站
-A web platform that allows users to compare clothing prices and styles across multiple e-commerce stores, providing direct links to retailer websites for purchase. 一個整合多家電商平台的服飾比價網站，讓使用者能輕鬆比較各家款式與價格，並提供直接前往原網站購買的導購連結，適合用於快速尋找高性價比單品與跨平台購物等情境。
+
+一個整合多家電商平台的服飾比價網站，讓使用者能輕鬆比較各家款式與價格，並提供直接前往原網站購買的導購連結，適合用於快速尋找高性價比單品與跨平台購物等情境。
 
 Features
 
