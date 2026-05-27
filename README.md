@@ -16,5 +16,4 @@ Responsive web interface
 
 Tech Stack
 
-HTML/CSS/javascript
-BeautifulSoup
+HTML/CSS/javascript/BeautifulSoup
